@@ -1,2 +1,1 @@
 # yhx
-this is bingoya
